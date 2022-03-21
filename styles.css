@@ -2,6 +2,26 @@ span {
     display: inline-block;
 }
 
-#featured-photo {
+body {
+    text-align: center;
+    background-color: #002650;
+    color: white;
+    font-size: 1em; 
+}
 
+a {
+    text-decoration: none;  
+    font-weight: bold;
+    font-size: 1.3em;
+    color: white;
+    
+}  
+
+.bottom-margin {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.icon-padding {
+    padding-right: 10px;
 }
